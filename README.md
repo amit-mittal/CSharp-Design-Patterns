@@ -1,1 +1,1 @@
-# CSharp-Design-Patterns
+# Design Patterns Implementation in C#
