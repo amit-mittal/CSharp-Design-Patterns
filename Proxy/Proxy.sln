@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{7FCFB5F7-A3B3-4CD5-9D2A-92318D6C147E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FCFB5F7-A3B3-4CD5-9D2A-92318D6C147E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FCFB5F7-A3B3-4CD5-9D2A-92318D6C147E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FCFB5F7-A3B3-4CD5-9D2A-92318D6C147E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FCFB5F7-A3B3-4CD5-9D2A-92318D6C147E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A859CBAA-3B0D-47C0-87D6-4826F4D2F97B}
+	EndGlobalSection
+EndGlobal
