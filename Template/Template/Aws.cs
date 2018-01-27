@@ -1,6 +1,6 @@
-﻿namespace Strategy
+﻿namespace Template
 {
-    class Azure : Cloud
+    public class Aws : Cloud
     {
         protected override bool Deploy(string template)
         {
@@ -14,7 +14,7 @@
 
         protected override string GetTemplate()
         {
-            return "Azure";
+            return "Aws";
         }
     }
 }

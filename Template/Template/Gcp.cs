@@ -1,4 +1,4 @@
-﻿namespace Strategy
+﻿namespace Template
 {
     class Gcp : Cloud
     {

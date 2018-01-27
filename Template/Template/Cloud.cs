@@ -1,4 +1,4 @@
-﻿namespace Strategy
+﻿namespace Template
 {
     using System;
 
